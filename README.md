@@ -1,4 +1,4 @@
-hEART STROKE ANALYSIS - OVERVIEW
+HEART STROKE ANALYSIS - OVERVIEW
 
 Heart Stroke is a medical emergency that can lead to death of a person. There can be a number of factors that can lead to Heart Stroke. To understand about the same , i have taken a LIVE dataset from Kaggle which contained the data of 5110 human beings with 11 variable factors. The variables which i considered in the analysis were Age, Hypertension,Heart disease,Ever married,Work Type,Residence type,average glucose level,BMI and Smoking Status. The data was received in a CSV format. For completing the task the various libraries used were pandas,numpy,matplotlib,seaborn etc.**
 
