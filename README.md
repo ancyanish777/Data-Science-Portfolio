@@ -14,3 +14,4 @@ In this project, we have analysed 7 major factors that might result in STROKE.
 **Factor No: 6 - Marital Status** : Married Males are getting more stroke.
 **Factor No: 7 - BMI :** No direct relationship is noted beween BMI & Stroke as per this data. But it is observed that a person with low glucose level and high BMI having chances of getting Stroke.
  
+![images (1)](https://user-images.githubusercontent.com/94284461/141677262-10c7bae8-e69e-458a-888e-d593dbb20485.jpg)
